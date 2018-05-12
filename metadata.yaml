@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '38274'
     url: http://www.gutenberg.org/2009/agents/38274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36435#Wonderland--or-Alaska-and-the-Inside-Passage--13-With-a-Description-of-the-Country-Traversed-_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-06-16'
 gutenberg_type: Text
