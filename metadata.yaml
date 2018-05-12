@@ -1,0 +1,39 @@
+_repo: Wonderland--or-Alaska-and-the-Inside-Passage--13-With-a-Description-of-the-Country-Traversed-__36435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Schwatka, Frederick
+    aliases:
+    - Schwatka, Lieutenant (Frederick)
+    - Schwatka, Fred
+    - Schwatka, F. (Frederick)
+    birthdate: 1849
+    deathdate: 1892
+    gutenberg_agent_id: '38273'
+    url: http://www.gutenberg.org/2009/agents/38273
+  - agent_name: Hyde, John
+    birthdate: 1848
+    deathdate: 1929
+    gutenberg_agent_id: '38274'
+    url: http://www.gutenberg.org/2009/agents/38274
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northern Pacific Railroad Company'
+- !lcsh 'Alaska -- Description and travel'
+- !lcc 'F850.5'
+- !lcsh 'Northwest, Pacific -- Description and travel'
+title: "Wonderland; or, Alaska and the Inside Passage\r\nWith a Description of the\
+  \ Country Traversed by the Northern Pacific Railroad"
+url: http://www.gutenberg.org/ebooks/36435
